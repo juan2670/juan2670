@@ -52,18 +52,6 @@
     alt="GitHub stats for juan2670" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=juan2670&background=011627&ring=ffeb95&fire=c792ea&currStreakNum=79d3c3&sideNums=79d3c3&currStreakLabel=ffeb95&sideLabels=ffeb95&dates=79d3c3&hide_border=false"
-    alt="Streak stats for juan2670" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan2670&layout=compact&title_color=ffeb95&text_color=79d3c3&bg_color=011627&hide_border=false"
-    alt="Top languages for juan2670" />
-</p>
-
 <br/>
 
 <!-- ====== FEATURED PROJECTS ====== -->
