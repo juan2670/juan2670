@@ -1,5 +1,5 @@
 <!--Banner-->
-![juan jose Banner Image](Banner Linkedin Abstracto Geométrico Morado y Rosa.png)
+![juan jose Banner Image](./Banner Linkedin Abstracto Geométrico Morado y Rosa.png)
 
 <!--Night Owl image-->
 <div>
