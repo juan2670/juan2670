@@ -1,5 +1,5 @@
 <!--Banner-->
-![juan jose Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![juan jose Banner Image](Banner Linkedin Abstracto Geométrico Morado y Rosa.png)
 
 <!--Night Owl image-->
 <div>
