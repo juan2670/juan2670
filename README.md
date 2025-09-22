@@ -37,9 +37,32 @@
 
 <!-- ====== STACK / SKILLS ====== -->
 <h2 align="center">🧰 Languages & Tools</h2>
+
+<!-- Row 1: skillicons (incluye PostgreSQL y mantiene MySQL) -->
 <p align="center">
-  <!-- TIP: you can add/remove icons from https://skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,git,mysql,cs" height="48" alt="skills" />
+  <img
+    src="https://skillicons.dev/icons?i=py,java,js,html,css,git,postgres,mysql,cs"
+    height="48"
+    alt="skills"
+  />
+</p>
+
+<!-- Row 2: Shields (Power BI + SQL Server) -->
+<p align="center">
+  <!-- Microsoft SQL Server -->
+  <img
+    src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
+    alt="Microsoft SQL Server"
+    height="28"
+    style="margin:4px 6px;"
+  />
+  <!-- Power BI -->
+  <img
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power BI"
+    height="28"
+    style="margin:4px 6px;"
+  />
 </p>
 
 <br/>
