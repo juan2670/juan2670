@@ -41,7 +41,7 @@
 <!-- Row 1: skillicons (incluye PostgreSQL y mantiene MySQL) -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,java,js,html,css,git,postgres,mysql,cs"
+    src="https://skillicons.dev/icons?i=py,java,js,html,css,git,mysql,cs"
     height="48"
     alt="skills"
   />
