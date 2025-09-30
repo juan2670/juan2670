@@ -47,7 +47,7 @@
   />
 </p>
 
-<!-- Row 2: Shields (Power BI + SQL Server) -->
+<!-- Row 2: Shields (Power BI) -->
 <p align="center">
   <!-- Microsoft SQL Server -->
   <img
