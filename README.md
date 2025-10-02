@@ -1,7 +1,7 @@
 <!-- ====== BANNER ====== -->
 ![Juan Jose Banner](./banner.png)
 
-<!-- Hero text (replaces the previous right-aligned owl image) -->
+<!-- ====== HERO ====== -->
 <p align="left">
   <strong>Always learning, always creating.</strong><br/>
   Focused on back-end and data analysis — building useful, well-designed products.
@@ -25,12 +25,12 @@
 <!-- ====== INTRO ====== -->
 <p align="left">
   I’m a Software Engineering student with a passion for turning simple ideas into useful, well-designed products.
-  I’m continuously learning and currently focusing on <b>back-end</b> and <b>data analysis</b>, always aiming for creative,
+  I’m continuously learning and currently focusing on <b>back-end</b> and <b>data analysis</b>, aiming for creative,
   practical, and results-oriented solutions.
 </p>
 
 - ✨ Student of life — always learning  
-- 🌱 Focused on creating, iterating, and improving products with real impact  
+- 🌱 Building, iterating, and improving products with real impact  
 - 🤝 Open to collaborate on real-world challenges
 
 <br/>
@@ -38,24 +38,42 @@
 <!-- ====== STACK / SKILLS ====== -->
 <h2 align="center">🧰 Languages & Tools</h2>
 
-<!-- Row 1: skillicons (incluye PostgreSQL y mantiene MySQL) -->
+<!-- Icons row (skillicons) -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,java,js,html,css,git,mysql,cs"
+    src="https://skillicons.dev/icons?i=py,java,js,html,css,git,mysql,postgres,cs"
     height="48"
-    alt="skills"
+    alt="Python, Java, JavaScript, HTML, CSS, Git, MySQL, C#"
   />
 </p>
 
-<!-- Row 2: Shields (Power BI) -->
+<!-- Badges row (platforms, BI, IDEs) -->
 <p align="center">
-  <!-- Microsoft SQL Server -->
-  <img
-    
   <!-- Power BI -->
   <img
-    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"
     alt="Power BI"
+    height="28"
+    style="margin:4px 6px;"
+  />
+  <!-- SQL Server -->
+  <img
+    src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff"
+    alt="Microsoft SQL Server"
+    height="28"
+    style="margin:4px 6px;"
+  />
+  <!-- Visual Studio -->
+  <img
+    src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff"
+    alt="Visual Studio"
+    height="28"
+    style="margin:4px 6px;"
+  />
+  <!-- Apache NetBeans -->
+  <img
+    src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=fff"
+    alt="Apache NetBeans"
     height="28"
     style="margin:4px 6px;"
   />
@@ -67,8 +85,9 @@
 <h2 align="center">📊 Stats</h2>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=juan2670&show_icons=true&title_color=ffeb95&text_color=79d3c3&icon_color=c792ea&bg_color=011627&hide_border=false"
-    alt="GitHub stats for juan2670" />
+    src="https://github-readme-stats.vercel.app/api?username=juan2670&show_icons=true&title_color=FFEB95&text_color=79D3C3&icon_color=C792EA&bg_color=011627&hide_border=false"
+    alt="GitHub stats for juan2670"
+  />
 </p>
 
 <br/>
@@ -79,14 +98,16 @@
   <!-- Face Detection -->
   <a href="https://github.com/juan2670/Deteccion-de-rostros">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=Deteccion-de-rostros&title_color=ffeb95&text_color=79d3c3&bg_color=011627&hide_border=false"
-      alt="Detección de rostros (Face Detection)" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=Deteccion-de-rostros&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
+      alt="Detección de rostros (Face Detection)"
+    />
   </a>
   <!-- Geo Infractions – Bogotá Transport -->
   <a href="https://github.com/juan2670/geo-infracciones-transporte-bogota">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=geo-infracciones-transporte-bogota&title_color=ffeb95&text_color=79d3c3&bg_color=011627&hide_border=false"
-      alt="Geo infractions for Bogotá transport" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=geo-infracciones-transporte-bogota&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
+      alt="Geo infractions for Bogotá transport"
+    />
   </a>
 </div>
 
@@ -96,14 +117,15 @@
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=juan2670&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false"
-    alt="Activity graph for juan2670" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=juan2670&bg_color=011627&color=79D3C3&line=C792EA&point=FFEB95&area=true&hide_border=false"
+    alt="Activity graph for juan2670"
+  />
 </p>
 
 ---
 
-<!-- Connect Section -->
-<h2 align="center">🤝 Connect With Me 🤝</h2>
+<!-- ====== CONNECT ====== -->
+<h2 align="center">🤝 Connect With Me</h2>
 
 <!-- Animated headline -->
 <p align="center">
@@ -117,33 +139,30 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-jose-jejen-097785295/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=fff"
       alt="LinkedIn"
-      style="margin: 4px;"
+      style="margin:4px;"
     />
   </a>
-
   <a href="mailto:jejenjuanjose@gmail.com" target="_blank">
     <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"
       alt="Email"
-      style="margin: 4px;"
+      style="margin:4px;"
     />
   </a>
-
   <a href="https://www.instagram.com/juan.__.2670/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"
       alt="Instagram"
-      style="margin: 4px;"
+      style="margin:4px;"
     />
   </a>
 </div>
 
-<!-- Subtle separator -->
 <br/>
 
-<!-- Footer wave -->
+<!-- ====== FOOTER ====== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"
