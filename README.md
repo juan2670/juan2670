@@ -95,11 +95,11 @@
 <!-- ====== FEATURED PROJECTS ====== -->
 <h2 align="center">⭐ Featured Projects</h2>
 <div align="center">
-  <!-- Face Detection -->
-  <a href="https://github.com/juan2670/Deteccion-de-rostros">
+  <!-- VisionID — Reconocimiento Facial (Python + WinForms + SQLite-ready) -->
+  <a href="https://github.com/juan2670/-VisionID-Reconocimiento-Facial-Python-WinForms-">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=Deteccion-de-rostros&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
-      alt="Detección de rostros (Face Detection)"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=-VisionID-Reconocimiento-Facial-Python-WinForms-&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
+      alt="VisionID — Reconocimiento Facial (Python + WinForms)"
     />
   </a>
   <!-- Geo Infractions – Bogotá Transport -->
@@ -111,7 +111,6 @@
   </a>
 </div>
 
-<br/>
 
 <!-- ====== CONTRIBUTION GRAPH ====== -->
 <h2 align="center">📈 Contribution Graph</h2>
