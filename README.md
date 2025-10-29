@@ -36,50 +36,27 @@
 <br/>
 
 <!-- ====== STACK / SKILLS ====== -->
-<h2 align="center">🧰 Languages & Tools</h2>
+<h2 align="center">🧰 Languages &amp; Tools</h2>
 
-<!-- Icons row (skillicons) -->
+<!-- Icons row (Python, C#, Java, Git, MySQL) -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,java,js,html,css,git,mysql,postgres,cs"
+    src="https://skillicons.dev/icons?i=py,cs,java,git,mysql"
     height="48"
-    alt="Python, Java, JavaScript, HTML, CSS, Git, MySQL, C#"
+    alt="Python, C#, Java, Git, MySQL"
   />
 </p>
 
-<!-- Badges row (platforms, BI, IDEs) -->
+<!-- Badges (Power BI y SQL Server) -->
 <p align="center">
-  <!-- Power BI -->
   <img
     src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"
     alt="Power BI"
     height="28"
     style="margin:4px 6px;"
   />
-  <!-- SQL Server -->
-  <img
-    src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff"
-    alt="Microsoft SQL Server"
-    height="28"
-    style="margin:4px 6px;"
-  />
-  <!-- Visual Studio -->
-  <img
-    src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff"
-    alt="Visual Studio"
-    height="28"
-    style="margin:4px 6px;"
-  />
-  <!-- Apache NetBeans -->
-  <img
-    src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=fff"
-    alt="Apache NetBeans"
-    height="28"
-    style="margin:4px 6px;"
-  />
 </p>
 
-<br/>
 
 <!-- ====== STATS ====== -->
 <h2 align="center">📊 Stats</h2>
@@ -95,22 +72,26 @@
 <!-- ====== FEATURED PROJECTS ====== -->
 <h2 align="center">⭐ Featured Projects</h2>
 <div align="center">
-  <!-- VisionID — Reconocimiento Facial (Python + WinForms + SQLite-ready) -->
-  <a href="https://github.com/juan2670/-VisionID-Reconocimiento-Facial-Python-WinForms-">
+
+  <!-- NUEVO: SQLite + Python — Análisis de ventas (Northwind) -->
+  <a href="https://github.com/juan2670/SQLite-Python">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=-VisionID-Reconocimiento-Facial-Python-WinForms-&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
-      alt="VisionID — Reconocimiento Facial (Python + WinForms)"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=SQLite-Python&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
+      alt="SQLite + Python — Análisis de ventas (Northwind)"
     />
   </a>
-  <!-- Geo Infractions – Bogotá Transport -->
+
+  <!-- Se mantiene: Geo infracciones – Bogotá Transport -->
   <a href="https://github.com/juan2670/geo-infracciones-transporte-bogota">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=geo-infracciones-transporte-bogota&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
-      alt="Geo infractions for Bogotá transport"
+      alt="Geo infracciones para transporte Bogotá"
     />
   </a>
+
 </div>
 
+<br/>
 
 <!-- ====== CONTRIBUTION GRAPH ====== -->
 <h2 align="center">📈 Contribution Graph</h2>
