@@ -73,13 +73,14 @@
 <h2 align="center">⭐ Featured Projects</h2>
 <div align="center">
 
-  <!-- NUEVO: SQLite + Python — Análisis de ventas (Northwind) -->
-  <a href="https://github.com/juan2670/SQLite-Python">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=SQLite-Python&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
-      alt="SQLite + Python — Análisis de ventas (Northwind)"
-    />
-  </a>
+ <!-- NUEVO: SQLite + Python — Análisis de ventas (Northwind) -->
+<a href="https://github.com/juan2670/SQLite-y-Python">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=SQLite-y-Python&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
+    alt="SQLite + Python — Análisis de ventas (Northwind)"
+  />
+</a>
+
 
   <!-- Se mantiene: Geo infracciones – Bogotá Transport -->
   <a href="https://github.com/juan2670/geo-infracciones-transporte-bogota">
