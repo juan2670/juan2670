@@ -17,7 +17,7 @@
 <!-- Animated subtitle -->
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=79D3C3&vCenter=true&width=750&lines=Software+Engineering+student;Back-end+%26+Data+Analysis+focused;I+love+building+useful%2C+well-designed+products;Always+learning%2C+always+creating"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=79D3C3&vCenter=true&width=750&lines=Software+Engineering;+focused;I+love+building+useful%2C+well-designed+products;Always+learning%2C+always+creating"
     alt="Animated typing subtitle"
   />
 </p>
