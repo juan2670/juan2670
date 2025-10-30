@@ -4,7 +4,7 @@
 <!-- ====== HERO ====== -->
 <p align="left">
   <strong>Always learning, always creating.</strong><br/>
-  Focused on back-end and data analysis — building useful, well-designed products.
+  data analysis — building useful, well-designed products.
 </p>
 
 <!-- ====== HEADER ====== -->
