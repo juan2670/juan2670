@@ -4,14 +4,14 @@
 <!-- ====== HERO ====== -->
 <p align="left">
   <strong>Always learning, always creating.</strong><br/>
-  data analysis — building useful, well-designed products.
+  building useful, well-designed products.
 </p>
 
 <!-- ====== HEADER ====== -->
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
   I'm Juan Jose
-  <span style="font-size:0.7em; font-weight:400;">(Developer / Programmer)</span>
+  <span style="font-size:0.7em; font-weight:400;">(Developer)</span>
 </h1>
 
 <!-- Animated subtitle -->
