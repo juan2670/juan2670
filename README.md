@@ -46,18 +46,6 @@
     alt="Python, C#, Java, Git, MySQL"
   />
 </p>
-
-<!-- Badges (Power BI y SQL Server) -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"
-    alt="Power BI"
-    height="28"
-    style="margin:4px 6px;"
-  />
-</p>
-
-
 <!-- ====== STATS ====== -->
 <h2 align="center">📊 Stats</h2>
 <p align="center">
