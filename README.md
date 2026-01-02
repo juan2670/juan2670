@@ -46,39 +46,15 @@
     alt="Python, C#, Java, Git, MySQL,astro,tailwind,html,css,javascript"
   />
 </p>
-<!-- ====== STATS ====== -->
-<h2 align="center">📊 Stats</h2>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=juan2670&show_icons=true&title_color=FFEB95&text_color=79D3C3&icon_color=C792EA&bg_color=011627&hide_border=false"
-    alt="GitHub stats for juan2670"
-  />
-</p>
 
 <br/>
 
-<!-- ====== FEATURED PROJECTS ====== -->
-<h2 align="center">⭐ Featured Projects</h2>
-<div align="center">
+## ⭐ Featured Projects
 
- <!-- NUEVO: SQLite + Python — Análisis de ventas (Northwind) -->
-<a href="https://github.com/juan2670/SQLite-y-Python">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=SQLite-y-Python&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
-    alt="SQLite + Python — Análisis de ventas (Northwind)"
-  />
-</a>
+[![SQLite + Python — Análisis de ventas (Northwind)](https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=SQLite-y-Python&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false)](https://github.com/juan2670/SQLite-y-Python)
 
+[![Geo infracciones para transporte Bogotá ]([https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=geo-infracciones-transporte-bogota&title](https://github.com/juan2670/geo-infracciones-transporte-bogota)_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false)](https://github.com/juan2670/geo-infracciones-transporte-bogota)
 
-  <!-- Se mantiene: Geo infracciones – Bogotá Transport -->
-  <a href="https://github.com/juan2670/geo-infracciones-transporte-bogota">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=juan2670&repo=geo-infracciones-transporte-bogota&title_color=FFEB95&text_color=79D3C3&bg_color=011627&hide_border=false"
-      alt="Geo infracciones para transporte Bogotá"
-    />
-  </a>
-
-</div>
 
 <br/>
 
