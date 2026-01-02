@@ -41,9 +41,9 @@
 <!-- Icons row (Python, C#, Java, Git, MySQL) -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,cs,java,git,mysql"
+    src="https://skillicons.dev/icons?i=py,cs,java,git,mysql,astro,tailwind,html,css,js"
     height="48"
-    alt="Python, C#, Java, Git, MySQL"
+    alt="Python, C#, Java, Git, MySQL,astro,tailwind,html,css,javascript"
   />
 </p>
 <!-- ====== STATS ====== -->
