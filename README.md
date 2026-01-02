@@ -113,17 +113,18 @@
       style="margin:4px;"
     />
   </a>
-  <a href="mailto:jejenjuanjose@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=jejenjuanjose@gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"
+    alt="Email"
+    style="margin:4px;"
+  />
+</a>
+
+  <a href="https://wa.me/573113056662" target="_blank">
     <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff"
-      alt="Email"
-      style="margin:4px;"
-    />
-  </a>
-  <a href="https://www.instagram.com/juan.__.2670/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff"
-      alt="Instagram"
+      src="https://img.shields.io/badge/whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=fff"
+      alt="whatsapp"
       style="margin:4px;"
     />
   </a>
