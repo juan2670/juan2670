@@ -41,9 +41,9 @@
 <!-- Icons row (Python, C#, Java, Git, MySQL) -->
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,java,git,mysql,astro,tailwind,html,css,js"
+    src="https://skillicons.dev/icons?i=py,java,git,mysql,astro,tailwind,html,css,js,spring"
     height="48"
-    alt="Python, Java, Git, MySQL,astro,tailwind,html,css,javascript"
+    alt="Python, Java, Git, MySQL,astro,tailwind,html,css,javascript,spring"
   />
 </p>
 
