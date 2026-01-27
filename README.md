@@ -96,14 +96,6 @@
     style="margin:4px;"
   />
 </a>
-
-  <a href="https://wa.me/573113056662" target="_blank">
-    <img
-      src="https://img.shields.io/badge/whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=fff"
-      alt="whatsapp"
-      style="margin:4px;"
-    />
-  </a>
 </div>
 
 <br/>
