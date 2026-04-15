@@ -33,9 +33,16 @@
 <h2 align="center">🧰 Languages &amp; Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,mysql,jenkins,docker,tensorflow" height="48" alt="Python, Scikit-Learn, MySQL, Jenkins, Docker, TensorFlow" />
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <br>
+  <img src="https://img.shields.io/badge/Evidently_AI-E45C3A?style=for-the-badge&logo=python&logoColor=white" alt="Evidently AI" />
   <img src="https://img.shields.io/badge/Kedro-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Kedro" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
 </p>
