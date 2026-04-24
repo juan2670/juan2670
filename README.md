@@ -8,7 +8,7 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
   I'm Juan Jose
-  <span style="font-size:0.7em; font-weight:400;">(Junior Data Scientist)</span>
+  <span style="font-size:0.7em; font-weight:400;"></span>
 </h1>
 
 <p align="left">
